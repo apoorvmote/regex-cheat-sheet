@@ -3,11 +3,11 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: first commit
+  COMMIT_MESSAGE: main to master
 
 tasks:
   default:
     cmds:
       - git add .
       - git commit -m "{{.COMMIT_MESSAGE}}"
-      - git push origin main
+      - git push origin master
