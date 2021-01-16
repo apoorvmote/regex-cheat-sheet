@@ -10,7 +10,7 @@
 
 | Character   |      Description      | 
 |:----------:|-------------:|
-| &#124; |    Or condition   |     
+| `\|` |    Or condition   |     
 | `.` |    Any single character except newline   |     
 | `+` |  Any single character/group to the left repeats one or more time | 
 | `*` | Any single character/group to the left repeats zero or more time |
@@ -18,7 +18,7 @@
 | `{min,}` |    Min length of character/group to the left   |     
 | `{min,max}` |    Min length and maximum length of character/group to the left   |     
 | `?` |    Any single character/group to the left is optional   |     
-| `\` |    Use next character literally i.e. `{ } [ ] / \ + * . $ ^ | ?`  |     
+| `\` |    Use next character literally i.e. `{ } [ ] / \ + * . $ ^ \| ?`  |     
 | `^` |    Starting with next   |     
 | `$` |    ending with before   |     
 

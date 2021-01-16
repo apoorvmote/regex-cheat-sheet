@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: updated or
+  COMMIT_MESSAGE: escape or
 
 tasks:
   default:
