@@ -10,7 +10,7 @@
 
 | Character   |      Description      | 
 |:----------:|-------------:|
-| &#92; |    Or condition   |     
+| &#124; |    Or condition   |     
 | `.` |    Any single character except newline   |     
 | `+` |  Any single character/group to the left repeats one or more time | 
 | `*` | Any single character/group to the left repeats zero or more time |
