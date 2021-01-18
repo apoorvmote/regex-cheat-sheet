@@ -26,8 +26,8 @@
 |:----------:|-------------:|
 | `[]` |    Any single character from inside brackets   |     
 | `[x-y]` |    Ranges start value `-` end value e.g.`[a-zA-Z0-9]`, `[0-3]`    |     
-| `()` |    Character group. e.g. `(abc)` abc in that exact order   |     
 | `[^]` |    Inverse of character set inside brackets   |     
+| `()` |    Character group. e.g. `(abc)` abc in that exact order   |     
 | `\w` |    Any alphanumeric character and underscore `[a-zA-Z0-9_]`   |     
 | `\W` |    Inverse of `\w` i.e. `[^\w]`   |     
 | `\d` |    Any number character i.e. `[0-9]`   |     

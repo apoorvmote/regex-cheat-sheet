@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: escape or
+  COMMIT_MESSAGE: switched group order
 
 tasks:
   default:
