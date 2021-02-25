@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: switched group order
+  COMMIT_MESSAGE: link to tutorial
 
 tasks:
   default:
